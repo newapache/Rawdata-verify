@@ -1,0 +1,493 @@
+RawDataVerification Start
+Copy to EUCKR_DATA_PATH[/data1/sireroot/DATASET/DATASET_20190221_euckr] completed.
+
+
+
+
+
+Copy to EUCKR_DATA_PATH[/data1/sireroot/DATASET/DATASET_20190221_euckr] completed.
+
+
+
+
+
+Encoding UTF-8 Start
+Encoding Completed
+
+
+
+
+
+Verify OneNAVI and AIR/IX Start
+Verify OneNAVI and AIR/IX END
+Get poi_rank file from PDB Server
+Get poi_rank Completed
+
+
+
+
+
+Delimiter Check
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Ranking/adinfo_01.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Ranking/landmark.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_29.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_28.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_11.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_49.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_48.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_41.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_43.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_42.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_46.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_47.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_45.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_44.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_36.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_31.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_30.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_26.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_27.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_41.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_42.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_43.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_47.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_46.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_44.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_45.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_36.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_30.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_31.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_27.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_26.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_28.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_29.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_11.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_48.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_49.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Admin/adm_dong.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Admin/AdminCode_Short.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Admin/adm_ri.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Admin/AdminCode.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Admin/adm_gu.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Admin/adm_city.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_49.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_48.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_11.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_29.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_28.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_31.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_30.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_26.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_27.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_36.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_46.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_47.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_45.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_44.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_41.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_43.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_42.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/CateCode.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/CCTV.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/복합브랜드아파트.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/PoiSubData_Multi.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/ExtraName.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/PoiDetail.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/PoiSubData.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/Local/PoiData_All.txt ]
+Delimiter Check Completed
+
+
+
+
+
+Dokdo Position Check
+독도리 행정코드 좌표 --> [OK]
+독도(우리땅) POI 좌표 --> [OK]
+독도리 POI 좌표 --> [OK]
+Type of field Check
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Ranking/adinfo_01.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Ranking/landmark.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_29.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_28.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_11.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_49.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_48.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_41.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_43.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_42.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_46.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_47.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_45.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_44.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_36.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_31.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_30.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_26.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_27.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_41.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_42.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_43.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_47.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_46.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_44.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_45.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_36.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_30.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_31.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_27.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_26.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_28.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_29.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_11.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_48.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_49.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Admin/adm_dong.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Admin/AdminCode_Short.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Admin/adm_ri.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Admin/AdminCode.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Admin/adm_gu.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Admin/adm_city.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_49.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_48.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_11.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_29.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_28.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_31.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_30.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_26.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_27.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_36.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_46.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_47.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_45.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_44.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_41.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_43.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_42.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/CateCode.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/CCTV.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/복합브랜드아파트.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/PoiSubData_Multi.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/ExtraName.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/PoiDetail.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/PoiSubData.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/Local/PoiData_All.txt ]
+Type of field Check Completed
+
+
+
+
+
+null Check
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Ranking/adinfo_01.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Ranking/landmark.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_29.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_28.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_11.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_49.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_48.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_41.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_43.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_42.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_46.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_47.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_45.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_44.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_36.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_31.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_30.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_26.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_TEL/TEL_27.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_41.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_42.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_43.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_47.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_46.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_44.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_45.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_36.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_30.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_31.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_27.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_26.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_28.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_29.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_11.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_48.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Road/newaddr_49.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Admin/adm_dong.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Admin/AdminCode_Short.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Admin/adm_ri.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Admin/AdminCode.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Admin/adm_gu.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Admin/adm_city.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_49.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_48.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_11.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_29.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_28.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_31.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_30.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_26.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_27.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_36.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_46.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_47.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_45.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_44.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_41.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_43.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_Addr/addr_42.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/CateCode.txt ]
+Required field is missing. line :  957 /data1/sireroot/DATASET/DATASET_20190221/Data_POI/CateCode.txt
+Required field is missing. line :  957 /data1/sireroot/DATASET/DATASET_20190221/Data_POI/CateCode.txt
+Required field is missing. line :  957 /data1/sireroot/DATASET/DATASET_20190221/Data_POI/CateCode.txt
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/CCTV.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/복합브랜드아파트.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/PoiSubData_Multi.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/ExtraName.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/PoiDetail.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/PoiSubData.txt ]
+[ /data1/sireroot/DATASET/DATASET_20190221/Data_POI/Local/PoiData_All.txt ]
+null Check Completed
+
+
+
+
+
+
+
+Record Size Check
+Field size over 90 Byte. line :  56233 영광불갑사장대불정여래밀인수증요의제보살만행수능엄경(권6-10)
+Field size over 90 Byte. line :  56241 대불정여래밀인수증요의제보살만행수능엄경(권2권3권6권7권10)
+Field size over 90 Byte. line :  56659 대방광원각수다라요의경(서권상1-1권상2-1-3권하1-1-2)
+Field size over 90 Byte. line :  1495617 할리스커피현대자동차그룹의왕연구소점(현대자동차그룹의왕연구소점)
+Field size over 90 Byte. line :  2895531 지하주차장(101동-102동201동-202동301동-302동)
+Field size over 90 Byte. line :  3698083 래미안에버하임아파트지하주차장(301-302동306-307동)
+Field size over 90 Byte. line :  3707616 덕풍동벽산블루밍아파트지하주차장(101-102동107동109동)
+Field size over 90 Byte. line :  3727610 지하주차장(101동-103동106동-107동109동-110동112동)
+Field size over 90 Byte. line :  4119206 래미안에버하임아파트지하주차장(304-305동309-310동)
+Field size over 90 Byte. line :  5239598 SmartCitiesInnovationSummitAsia2016주차장
+Field size over 90 Byte. line :  5245675 도산대로사거리더블에이치짐주차장(발렛도산대로사거리더블에이치짐)
+Field size over 90 Byte. line :  5252310 우림라이온스밸리2차주차장(독산역2번출구앞우림라이온스밸리2차)
+Field size over 90 Byte. line :  5280378 ELLEWALLETANDBELTBASIC이마트(천안터미널점)
+Field size over 90 Byte. line :  5286323 구로코오롱디지털타워빌란트2차주차장(코오롱디지털타워빌란트2차주차장)
+Field size over 90 Byte. line :  5295093 DMC상암이안2단지오피스텔주차장(디지털미디어시티사거리2호점)
+Record Size count Check Completed
+
+
+
+
+
+ExtraName field count Check
+ExtraName field count Check Completed
+
+
+
+
+
+DataSet File Check
+
+Removed files from new dataset.
+Files only in /data1/sireroot/DATASET/DATASET_20190201:
+* Data_Ranking/poi_rank.csv
+
+Added files from new dataset.
+Not Founded.
+DataSet File Check COmpleted
+
+
+
+
+Compare File Size between Previous Dataset and New Dataset.
+Same File Size - 0 files
+
+Relevant File Size Changed - 36 files
+* /Data_TEL/TEL_29.txt 16013135.0
+* /Data_TEL/TEL_28.txt 23455015.0
+* /Data_TEL/TEL_11.txt 116492748.0
+* /Data_TEL/TEL_49.txt 6698734.0
+* /Data_TEL/TEL_48.txt 34529830.0
+* /Data_TEL/TEL_41.txt 111221411.0
+* /Data_TEL/TEL_43.txt 16596803.0
+* /Data_TEL/TEL_42.txt 20315386.0
+* /Data_TEL/TEL_46.txt 18909555.0
+* /Data_TEL/TEL_47.txt 28701958.0
+* /Data_TEL/TEL_45.txt 17372946.0
+* /Data_TEL/TEL_44.txt 22391277.0
+* /Data_TEL/TEL_36.txt 1429676.0
+* /Data_TEL/TEL_31.txt 8529015.0
+* /Data_TEL/TEL_30.txt 17579707.0
+* /Data_TEL/TEL_26.txt 34810308.0
+* /Data_Admin/adm_dong.txt 1186916.0
+* /Data_Admin/adm_vertex.txt 85138632.0
+* /Data_Admin/AdminCode_Short.txt 1681092.0
+* /Data_Admin/adm_ri.txt 2014642.0
+* /Data_Admin/AdminCode.txt 1836718.0
+* /Data_Admin/adm_gu.txt 26785.0
+* /Data_Admin/adm_city.txt 1040.0
+* /Data_Theme/ThemeCode.txt 104630.0
+* /Data_Theme/ThemeZoneVertex.txt 481207.0
+* /Data_Theme/ThemeDetailInfo.txt 8977066.0
+* /Data_Theme/PoiDataDetail.txt 16407323.0
+* /Data_POI/CateCode.txt 142559.0
+* /Data_POI/CCTV.txt 144331.0
+* /Data_POI/복합브랜드아파트.txt 23075.0
+* /Data_POI/PoiSubData_Multi.txt 113262.0
+* /Data_POI/VVMS.txt 1683147.0
+* /Data_POI/ExtraName.txt 122605234.0
+* /Data_POI/PoiDetail.txt 32123924.0
+* /Data_POI/PoiSubData.txt 118756772.0
+* /Data_POI/Local/PoiData_All.txt 793727292.0
+
+Abnormal Estimated File Size Changed - 41 files
+* /Data_Ranking/adinfo_01.txt 15118.0
+* /Data_Ranking/landmark.txt 205334.0
+* /Data_TEL/TEL_27.txt 23588592.0
+* /Data_Road/newaddr_41.txt 43788854.0
+* /Data_Road/newaddr_42.txt 14758345.0
+* /Data_Road/newaddr_43.txt 13881935.0
+* /Data_Road/newaddr_47.txt 29820716.0
+* /Data_Road/newaddr_46.txt 23796119.0
+* /Data_Road/newaddr_44.txt 20385100.0
+* /Data_Road/newaddr_45.txt 18108238.0
+* /Data_Road/newaddr_36.txt 1099322.0
+* /Data_Road/newaddr_30.txt 5436748.0
+* /Data_Road/newaddr_31.txt 4388181.0
+* /Data_Road/newaddr_27.txt 10376988.0
+* /Data_Road/newaddr_26.txt 15197939.0
+* /Data_Road/newaddr_28.txt 8794238.0
+* /Data_Road/newaddr_29.txt 5946383.0
+* /Data_Road/newaddr_11.txt 25322300.0
+* /Data_Road/newaddr_48.txt 28022989.0
+* /Data_Road/newaddr_49.txt 6154028.0
+* /Data_Addr/addr_49.txt 30071400.0
+* /Data_Addr/addr_48.txt 170675119.0
+* /Data_Addr/addr_11.txt 43532626.0
+* /Data_Addr/addr_29.txt 15846153.0
+* /Data_Addr/addr_28.txt 25914928.0
+* /Data_Addr/addr_31.txt 18262748.0
+* /Data_Addr/addr_30.txt 12092659.0
+* /Data_Addr/addr_26.txt 32346077.0
+* /Data_Addr/addr_27.txt 24553838.0
+* /Data_Addr/addr_36.txt 6900049.0
+* /Data_Addr/addr_46.txt 201612863.0
+* /Data_Addr/addr_47.txt 202017624.0
+* /Data_Addr/addr_45.txt 134166327.0
+* /Data_Addr/addr_44.txt 128100422.0
+* /Data_Addr/addr_41.txt 183117480.0
+* /Data_Addr/addr_43.txt 82475587.0
+* /Data_Addr/addr_42.txt 93535038.0
+* /Data_Theme/PoiData.txt 674911.0
+* /Data_Theme/ThemePoiRaw.txt 789648.0
+* /Data_POI/PoiPicture.txt 322675.0
+* /Data_kakao/iNavi_kakao.txt 24469471.0
+
+Previous Dataset File Size is 0 - 0 files
+Abnormal AdmCode Check
+[/Data_Addr/]
+/Data_Addr/addr_49.txt - 0 invalid records founded.
+/Data_Addr/addr_48.txt - 0 invalid records founded.
+/Data_Addr/addr_11.txt - 0 invalid records founded.
+/Data_Addr/addr_29.txt - 0 invalid records founded.
+/Data_Addr/addr_28.txt - 0 invalid records founded.
+/Data_Addr/addr_31.txt - 0 invalid records founded.
+/Data_Addr/addr_30.txt - 0 invalid records founded.
+/Data_Addr/addr_26.txt - 0 invalid records founded.
+/Data_Addr/addr_27.txt - 0 invalid records founded.
+/Data_Addr/addr_36.txt - 0 invalid records founded.
+/Data_Addr/addr_46.txt - 0 invalid records founded.
+/Data_Addr/addr_47.txt - 0 invalid records founded.
+/Data_Addr/addr_45.txt - 0 invalid records founded.
+/Data_Addr/addr_44.txt - 0 invalid records founded.
+/Data_Addr/addr_41.txt - 0 invalid records founded.
+/Data_Addr/addr_43.txt - 0 invalid records founded.
+/Data_Addr/addr_42.txt - 0 invalid records founded.
+[/Data_Road/]
+/Data_Road/newaddr_41.txt - 0 invalid records founded.
+/Data_Road/newaddr_42.txt - 0 invalid records founded.
+/Data_Road/newaddr_43.txt - 0 invalid records founded.
+/Data_Road/newaddr_47.txt - 0 invalid records founded.
+/Data_Road/newaddr_46.txt - 0 invalid records founded.
+/Data_Road/newaddr_44.txt - 0 invalid records founded.
+/Data_Road/newaddr_45.txt - 0 invalid records founded.
+/Data_Road/newaddr_36.txt - 0 invalid records founded.
+/Data_Road/newaddr_30.txt - 0 invalid records founded.
+/Data_Road/newaddr_31.txt - 0 invalid records founded.
+/Data_Road/newaddr_27.txt - 0 invalid records founded.
+/Data_Road/newaddr_26.txt - 0 invalid records founded.
+/Data_Road/newaddr_28.txt - 0 invalid records founded.
+/Data_Road/newaddr_29.txt - 0 invalid records founded.
+/Data_Road/newaddr_11.txt - 0 invalid records founded.
+/Data_Road/newaddr_48.txt - 0 invalid records founded.
+/Data_Road/newaddr_49.txt - 0 invalid records founded.
+[/Data_TEL/]
+/Data_TEL/TEL_29.txt - 0 invalid records founded.
+/Data_TEL/TEL_28.txt - 0 invalid records founded.
+/Data_TEL/TEL_11.txt - 0 invalid records founded.
+/Data_TEL/TEL_49.txt - 0 invalid records founded.
+/Data_TEL/TEL_48.txt - 0 invalid records founded.
+/Data_TEL/TEL_41.txt - 0 invalid records founded.
+/Data_TEL/TEL_43.txt - 0 invalid records founded.
+/Data_TEL/TEL_42.txt - 0 invalid records founded.
+/Data_TEL/TEL_46.txt - 0 invalid records founded.
+/Data_TEL/TEL_47.txt - 0 invalid records founded.
+/Data_TEL/TEL_45.txt - 0 invalid records founded.
+/Data_TEL/TEL_44.txt - 0 invalid records founded.
+/Data_TEL/TEL_36.txt - 0 invalid records founded.
+/Data_TEL/TEL_31.txt - 0 invalid records founded.
+/Data_TEL/TEL_30.txt - 0 invalid records founded.
+/Data_TEL/TEL_26.txt - 0 invalid records founded.
+/Data_TEL/TEL_27.txt - 0 invalid records founded.
+[/Data_POI/Local/PoiData_All.txt]
+/Data_POI/Local/PoiData_All.txt - 0 invalid records founded.
+[/Data_POI/CCTV.txt]
+/Data_POI/CCTV.txt - 0 invalid records founded.
+[/Data_POI/PoiSubData.txt]
+/Data_POI/PoiSubData.txt - 0 invalid records founded.
+[/Data_Admin/adm_vertex.txt]
+/Data_Admin/adm_vertex.txt - 0 invalid records founded.
+[/Data_Theme/PoiData.txt]
+/Data_Theme/PoiData.txt - 0 invalid records founded.
+Abnormal CateCode Check
+[/Data_TEL/]
+/Data_TEL/TEL_29.txt - 0 invalid records founded.
+/Data_TEL/TEL_28.txt - 0 invalid records founded.
+/Data_TEL/TEL_11.txt - 0 invalid records founded.
+/Data_TEL/TEL_49.txt - 0 invalid records founded.
+/Data_TEL/TEL_48.txt - 0 invalid records founded.
+/Data_TEL/TEL_41.txt - 0 invalid records founded.
+/Data_TEL/TEL_43.txt - 0 invalid records founded.
+/Data_TEL/TEL_42.txt - 0 invalid records founded.
+/Data_TEL/TEL_46.txt - 0 invalid records founded.
+/Data_TEL/TEL_47.txt - 0 invalid records founded.
+/Data_TEL/TEL_45.txt - 0 invalid records founded.
+/Data_TEL/TEL_44.txt - 0 invalid records founded.
+/Data_TEL/TEL_36.txt - 0 invalid records founded.
+/Data_TEL/TEL_31.txt - 0 invalid records founded.
+/Data_TEL/TEL_30.txt - 0 invalid records founded.
+/Data_TEL/TEL_26.txt - 0 invalid records founded.
+/Data_TEL/TEL_27.txt - 0 invalid records founded.
+[/Data_POI/Local/PoiData_All.txt]
+/Data_POI/Local/PoiData_All.txt - 0 invalid records founded.
+[/Data_POI/CCTV.txt]
+/Data_POI/CCTV.txt - 0 invalid records founded.
+[/Data_POI/PoiSubData.txt]
+/Data_POI/PoiSubData.txt - 0 invalid records founded.
+[/Data_POI/VVMS.txt]
+/Data_POI/VVMS.txt - 0 invalid records founded.
+[/Data_Theme/PoiData.txt]
+/Data_Theme/PoiData.txt - 0 invalid records founded.
+Examination PoiDetail.txt field Start!!!
+0
+Examination PoiDetail.txt field Complete
+
+
+
+
+
+
+
+RawDataVerification Completed
+Elapsed Time: 453.03542494773865
